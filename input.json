@@ -45,7 +45,7 @@
       "courseId": "ATA121",
       "courseName": "Ataturk\u2019s Principles and the History of Turkish Renovation I",
       "credits": 2,
-      "lecturer": 13,
+      "lecturer": 22,
       "lectureHours": 2,
       "labHours": 0,
       "type": "M",
@@ -182,7 +182,7 @@
       "courseId": "MATH1001",
       "courseName": "Calculus I",
       "credits": 6,
-      "lecturer":999 ,
+      "lecturer":24 ,
       "lectureHours": 4,
       "labHours": 0,
       "type": "M",
@@ -238,7 +238,7 @@
       "courseId": "PHYS1103",
       "courseName": "Physics Lab I",
       "credits": 2,
-      "lecturer":999 ,
+      "lecturer":25 ,
       "lectureHours": 0,
       "labHours": 2,
       "type": "M",
@@ -282,7 +282,7 @@
       "courseId": "TRD121",
       "courseName": "T\u00fcrk Dili I",
       "credits": 2,
-      "lecturer": 17,
+      "lecturer": 26,
       "lectureHours": 2,
       "labHours": 0,
       "type": "M",
@@ -326,7 +326,7 @@
       "courseId": "CSE1242",
       "courseName": "Computer Programming II",
       "credits": 6,
-      "lecturer":999 ,
+      "lecturer":2 ,
       "lectureHours": 3,
       "labHours": 2,
       "type": "M",
@@ -380,7 +380,7 @@
       "courseId": "MATH1002",
       "courseName": "Calculus II",
       "credits": 6,
-      "lecturer":999 ,
+      "lecturer":18 ,
       "lectureHours": 4,
       "labHours": 0,
       "type": "M",
@@ -436,7 +436,7 @@
       "courseId": "PHYS1102",
       "courseName": "Physics II",
       "credits": 4,
-      "lecturer": 16,
+      "lecturer": 27,
       "lectureHours": 3,
       "labHours": 0,
       "type": "M",
@@ -462,7 +462,7 @@
       "courseId": "PHYS1104",
       "courseName": "Physics Lab II",
       "credits": 2,
-      "lecturer":999,
+      "lecturer":25,
       "lectureHours": 0,
       "labHours": 2,
       "type": "M",
@@ -1845,7 +1845,7 @@
       "courseId": "YDA1001",
       "courseName": "German for Beginners",
       "credits": 3,
-      "lecturer": "Gülizar Semra Özkurt",
+      "lecturer": "29",
       "lectureHours": 2,
       "labHours": 0,
       "type": "NTE",
@@ -1867,7 +1867,7 @@
       "courseId": "YDA1002",
       "courseName": "German",
       "credits": 3,
-      "lecturer": "Gülizar Semra Özkurt",
+      "lecturer": "29",
       "lectureHours": 2,
       "labHours": 0,
       "type": "NTE",
@@ -2197,7 +2197,7 @@
       "courseId": "BUS1003",
       "courseName": "Entrepreneurship and Innovation",
       "credits": 3,
-      "lecturer": "Hande Sinem Ergun",
+      "lecturer": "28",
       "lectureHours": 2,
       "labHours": 0,
       "type": "UE",
@@ -2329,7 +2329,7 @@
       "courseId": "HR1013",
       "courseName": "Career Development",
       "credits": 3,
-      "lecturer": "Hande Sinem Ergun",
+      "lecturer": "28",
       "lectureHours": 2,
       "labHours": 0,
       "type": "UE",
@@ -2748,6 +2748,41 @@
       "name": "Mustafa Alevli",
       "department": null
     },
+  
+  
+  
+  
+    {
+      "id": 24,
+      "name": "Mahmut Kertil",
+      "department": null
+    },
+    {
+      "id": 25,
+      "name": "Hüseyin Yaltırık",
+      "department": null
+    },
+   {
+      "id": 26,
+      "name": "Nurgül Yıldız",
+      "department": null
+    },
+   {
+      "id": 27,
+      "name": "Caner Değer",
+      "department": null
+    },
+  {
+      "id": 28,
+      "name": "Hande Sinem Ergun",
+      "department": null
+    },
+  {
+      "id": 29,
+      "name": "Gülizar Semra Özkurt",
+      "department": null
+    },
+  
   
   
   ////
