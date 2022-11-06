@@ -913,7 +913,528 @@
    ///
   
    ///-----Elective Courses-----
-      
+         {
+      "courseId": "CSE4026",
+      "courseName": "Introduction to Robotics and Control Theory",
+      "credits": 5,
+      "lecturer": "mehmet kadir baran",
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "TE",
+      "capacity": 48,
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          3,
+          6
+        ],
+        [
+          4,
+          7
+        ],
+        [
+          4,
+          8
+        ]
+      ]
+    },
+    {
+      "courseId": "CSE4032",
+      "courseName": "Introduction to Distributed Systems",
+      "credits": 5,
+      "lecturer": null,
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "TE",
+      "capacity": 30,
+      "prerequisites": null,
+      "prerequisiteTo": null
+    },
+    {
+      "courseId": "CSE4034",
+      "courseName": "Advanced Unix Programming",
+      "credits": 5,
+      "lecturer": "sanem arslan yilmaz",
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "TE",
+      "capacity": 47,
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          1,
+          5
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ]
+      ]
+    },
+    {
+      "courseId": "CSE4038",
+      "courseName": "Introduction to Parallel Processing",
+      "credits": 5,
+      "lecturer": null,
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "TE",
+      "capacity": 30,
+      "prerequisites": null,
+      "prerequisiteTo": null
+    },
+    {
+      "courseId": "CSE4040",
+      "courseName": "Cloud Computing",
+      "credits": 5,
+      "lecturer": null,
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "TE",
+      "capacity": 30,
+      "prerequisites": null,
+      "prerequisiteTo": null
+    },
+    {
+      "courseId": "CSE4044",
+      "courseName": "Software Project Management",
+      "credits": 5,
+      "lecturer": null,
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "TE",
+      "capacity": 30,
+      "prerequisites": null,
+      "prerequisiteTo": null
+    },
+    {
+      "courseId": "CSE4053",
+      "courseName": "Information Systems: Analysis and Design ",
+      "credits": 5,
+      "lecturer": null,
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "TE",
+      "capacity": 30,
+      "prerequisites": null,
+      "prerequisiteTo": null,F
+    },
+    { 
+      "courseId": "CSE4056",
+      "courseName": "Management of Information Systems",
+      "credits": 5,
+      "lecturer": null,
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "TE",
+      "capacity": 30,
+      "prerequisites": null,
+      "prerequisiteTo": null
+    },
+    {
+      "courseId": "CSE4057",
+      "courseName": "Information Systems Security",
+      "credits": 5,
+      "lecturer": "omer korcak",
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "TE",
+      "capacity": 60,
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          5,
+          4
+        ]
+      ]
+    },
+    {
+      "courseId": "CSE4058",
+      "courseName": "Fundamentals of Electronic Commerce",
+      "credits": 5,
+      "lecturer": null,
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "TE",
+      "capacity": 30,
+      "prerequisites": null,
+      "prerequisiteTo": null
+    },
+    {
+      "courseId": "CSE4059",
+      "courseName": "Internet Programming",
+      "credits": 5,
+      "lecturer": null,
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "TE",
+      "capacity": 30,
+      "prerequisites": null,
+      "prerequisiteTo": null
+    },
+    {
+      "courseId": "CSE4061",
+      "courseName": "Compiler Design",
+      "credits": 5,
+      "lecturer": null,
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "TE",
+      "capacity": 30,
+      "prerequisites": [
+        "CSE3264"
+      ],
+      "prerequisiteTo": null
+    },
+    {
+      "courseId": "CSE4062",
+      "courseName": "Introduction to Data Science and Analytics",
+      "credits": 5,
+      "lecturer": "murat can ganiz",
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "TE",
+      "capacity": 30,
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          4,
+          4
+        ]
+      ]
+    },
+    { 
+      "courseId": "CSE4063",
+      "courseName": "Fundamentals of Data Mining",
+      "credits": 5,
+      "lecturer": null,
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "TE",
+      "capacity": 30,
+      "prerequisites": null,
+      "prerequisiteTo": null
+    },
+    {
+      "courseId": "CSE4065",
+      "courseName": "Introduction to Computational Genomics",
+      "credits": 5,
+      "lecturer": "betul boz",
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "TE",
+      "capacity": 63,
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          3,
+          6
+        ]
+      ]
+    },
+    { 
+      "courseId": "CSE4066",
+      "courseName": "Introduction to Cryptography",
+      "credits": 5,
+      "lecturer": null,
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "TE",
+      "capacity": 30,
+      "prerequisites": null,
+      "prerequisiteTo": null
+    },
+    { 
+      "courseId": "CSE4067",
+      "courseName": "Introduction to Blockchain Programming",
+      "credits": 5,
+      "lecturer": null,
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "TE",
+      "capacity": 30,
+      "prerequisites": null,
+      "prerequisiteTo": null
+    },
+    { 
+      "courseId": "CSE4070",
+      "courseName": "Software Framework",
+      "credits": 5,
+      "lecturer": null,
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "TE",
+      "capacity": 30,
+      "prerequisites": null,
+      "prerequisiteTo": null
+    },
+    {
+      "courseId": "CSE4075",
+      "courseName": "Wireless and Mobile Networks",
+      "credits": 5,
+      "lecturer": "mujdat soyturk",
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "TE",
+      "capacity": 60,
+      "prerequisites": [
+        "CSE4074"
+      ],
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          2,
+          5
+        ],
+        [
+          5,
+          6
+        ],
+        [
+          5,
+          7
+        ]
+      ]
+    },
+    {
+      "courseId": "CSE4082",
+      "courseName": "Artificial Intelligence",
+      "credits": 5,
+      "lecturer": "ali haydar ozer",
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "TE",
+      "capacity": 75,
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          3,
+          8
+        ]
+      ]
+    },
+    {
+      "courseId": "CSE4083",
+      "courseName": "Computer Graphics",
+      "credits": 5,
+      "lecturer": "mehmet kadir baran",
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "TE",
+      "capacity": 42,
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          1,
+          4
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ]
+      ]
+    },
+    {
+      "courseId": "CSE4084",
+      "courseName": "Multimedia Systems",
+      "credits": 5,
+      "lecturer": null,
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "TE",
+      "capacity": 30,
+      "prerequisites": null,
+      "prerequisiteTo": null
+    },
+    { 
+      "courseId": "CSE4085",
+      "courseName": "Human Computer Interaction",
+      "credits": 5,
+      "lecturer": null,
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "TE",
+      "capacity": 30,
+      "prerequisites": null,
+      "prerequisiteTo": null
+    },
+    {
+      "courseId": "CSE4086",
+      "courseName": "Mobile Device Programming",
+      "credits": 5,
+      "lecturer": null,
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "TE",
+      "capacity": 30,
+      "prerequisites": null,
+      "prerequisiteTo": null
+    },
+    {
+      "courseId": "CSE4117",
+      "courseName": "Microprocessors",
+      "credits": 5,
+      "lecturer": "mehmet kadir baran",
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "TE",
+      "capacity": 128,
+      "prerequisites": [
+        "CSE3038" 
+      ],
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          1,
+          7
+        ],
+        [
+          1,
+          8
+        ],
+        [
+          4,
+          5
+        ]
+      ]
+    },
+    {
+      "courseId": "CSE4093",
+      "courseName": "Special Topics in Computer Engineering I",
+      "credits": 5,
+      "lecturer": "mustafa borahan tumer",
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "TE",
+      "capacity": 43,
+      "prerequisites": null,
+      "prerequisiteTo": null,
+       "schedule": [
+        [
+          3,
+          7
+        ],
+        [
+          3,
+          8
+        ],
+        [
+          4,
+          6
+        ]
+      ]
+    },
+    {
+      "courseId": "CSE4094",
+      "courseName": "Special Topics in Computer Engineering II",
+      "credits": 5,
+      "lecturer": "fatma corut ergin",
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "TE",
+      "capacity": 60,
+      "prerequisites": null,
+      "prerequisiteTo": null,
+       "schedule": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          2
+        ]
+      ]
+    },
+    {
+      "courseId": "CSE4095",
+      "courseName": "Special Topics in Computer Engineering III",
+      "credits": 5,
+      "lecturer": "murat can ganiz",
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "TE",
+      "capacity": 66,
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          2
+        ]
+      ]
+    },
+    { 
+      "courseId": "CSE4096",
+      "courseName": "Special Topics in Computer Engineering IV",
+      "credits": 5,
+      "lecturer": null,
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "TE",
+      "capacity": 30,
+      "prerequisites": null,
+      "prerequisiteTo": null
+    },
    ///
   
    ///-----Non-Elective Courses-----
