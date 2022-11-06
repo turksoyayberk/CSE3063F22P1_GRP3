@@ -553,7 +553,512 @@
    ///
   
    ///-----Non-Elective Courses-----
-      
+      {
+      "courseId": "YDA1001",
+      "courseName": "German for Beginners",
+      "credits": 3,
+      "lecturer": "Gülizar Semra Özkurt",
+      "lectureHours": 2,
+      "labHours": 0,
+      "type": "NTE",
+      "capacity": 55,
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ]
+      ]
+    },
+   {
+      "courseId": "YDA1002",
+      "courseName": "German",
+      "credits": 3,
+      "lecturer": "Gülizar Semra Özkurt",
+      "lectureHours": 2,
+      "labHours": 0,
+      "type": "NTE",
+      "capacity": 55,
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          6
+        ]
+      ]
+    },
+   {
+      "courseId": "YDA1003",
+      "courseName": "German Communication",
+      "credits": 3,
+      "lecturer": "Gülizar Semra Özkurt",
+      "lectureHours": 2,
+      "labHours": 0,
+      "type": "NTE",
+      "capacity": 55,
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          4,
+          5
+        ],
+        [
+          4,
+          6
+        ]
+      ]
+    },
+   {
+      "courseId": "NTE1003",
+      "courseName": "The Culture of Radiation Safety",
+      "credits": 3,
+      "lecturer": "Deniz Öner",
+      "lectureHours": 2,
+      "labHours": 0,
+      "type": "NTE",
+      "capacity": 60,
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          2,
+          9
+        ],
+        [
+          2,
+          10
+        ]
+      ]
+    },
+   {
+      "courseId": "NTE1014",
+      "courseName": "Introduction to Strategic Human Resources Management",
+      "credits": 3,
+      "lecturer": "Özlem Yılmaz",
+      "lectureHours": 2,
+      "labHours": 0,
+      "type": "NTE",
+      "capacity": 55,
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ]
+      ]
+    },
+  {
+      "courseId": "NTE1015",
+      "courseName": "Introduction to Leadership & Management for Engineeers",
+      "credits": 3,
+      "lecturer": "Özlem Yılmaz",
+      "lectureHours": 2,
+      "labHours": 0,
+      "type": "NTE",
+      "capacity": 55,
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          6
+        ]
+      ]
+    },
+  {
+      "courseId": "NTE1016",
+      "courseName": "Introduction to Strategy for Engineers",
+      "credits": 3,
+      "lecturer": "Özlem Yılmaz",
+      "lectureHours": 2,
+      "labHours": 0,
+      "type": "NTE",
+      "capacity": 55,
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ]
+      ]
+    },
+  {
+      "courseId": "NTE1018",
+      "courseName": "Introduction to Business World for Engineers",
+      "credits": 3,
+      "lecturer": "Özlem Yılmaz",
+      "lectureHours": 2,
+      "labHours": 0,
+      "type": "NTE",
+      "capacity": 55,
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          4,
+          5
+        ],
+        [
+          4,
+          6
+        ]
+      ]
+    },
+  {
+      "courseId": "NTE1017",
+      "courseName": "Marketing in a Technology Driven World for Engineers",
+      "credits": 3,
+      "lecturer": "Caner Dilmener",
+      "lectureHours": 2,
+      "labHours": 0,
+      "type": "NTE",
+      "capacity": 60,
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          3,
+          5
+        ],
+        [
+          3,
+          6
+        ]
+      ]
+    },
+{ 
+      "courseId": "OB2040",
+      "courseName": "Industrial Psychology",
+      "credits": 3,
+      "lecturer": "Sinan Çaya",
+      "lectureHours": 2,
+      "labHours": 0,
+      "type": "NTE",
+      "capacity": 40,
+      "prerequisites": null,
+      "prerequisiteTo": null
+      "schedule": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ]
+      ]
+    },
+   {
+      "courseId": "OB2041",
+      "courseName": "Behavioral Sciences for Engineers",
+      "credits": 3,
+      "lecturer": "Sinan Çaya",
+      "lectureHours": 2,
+      "labHours": 0,
+      "type": "NTE",
+      "capacity": 40,
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ]
+      ]
+    },
+   {
+      "courseId": "OB3043",
+      "courseName": "Organizational Behaviour",
+      "credits": 3,
+      "lecturer": "Cahit Köse",
+      "lectureHours": 2,
+      "labHours": 0,
+      "type": "NTE",
+      "capacity": 60,
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          3
+        ]
+      ]
+    },
+{ 
+      "courseId": "YDIS1001",
+      "courseName": "Spanish for Beginners",
+      "credits": 3,
+      "lecturer": "Rosa Maria Flores Rangel",
+      "lectureHours": 2,
+      "labHours": 0,
+      "type": "NTE",
+      "capacity": 70,
+      "prerequisites": null,
+      "prerequisiteTo": null
+      "schedule": [
+        [
+          3,
+          9
+        ],
+        [
+          3,
+          10
+        ]
+      ]
+    },
+   {
+      "courseId": "YDIS1002",
+      "courseName": "Spanish",
+      "credits": 3,
+      "lecturer": "Rosa Maria Flores Rangel",
+      "lectureHours": 2,
+      "labHours": 0,
+      "type": "NTE",
+      "capacity": 65,
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          5,
+          10
+        ],
+        [
+          5,
+          11
+        ]
+      ]
+    },
+   {
+      "courseId": "NTE1006",
+      "courseName": "Basic Principles of Accessibility in Informatics and Technology",
+      "credits": 3,
+      "lecturer": "Engin Yılmaz",
+      "lectureHours": 2,
+      "labHours": 0,
+      "type": "NTE",
+      "capacity": 80,
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ]
+      ]
+    },
+   {
+      "courseId": "NTE1010",
+      "courseName": "Introduction to Finance for Engineers",
+      "credits": 3,
+      "lecturer": "Turgay Özbek",
+      "lectureHours": 2,
+      "labHours": 0,
+      "type": "NTE",
+      "capacity": 65,
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          2,
+          6
+        ],
+        [
+          2,
+          7
+        ]
+      ]
+    }
+   {
+      "courseId": "BUS1003",
+      "courseName": "Entrepreneurship and Innovation",
+      "credits": 3,
+      "lecturer": "Hande Sinem Ergun",
+      "lectureHours": 2,
+      "labHours": 0,
+      "type": "UE",
+      "capacity": 60,
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ]
+      ]
+    },
+   {
+      "courseId": "BUS1004",
+      "courseName": "Strategic Entrepreneurship",
+      "credits": 3,
+      "lecturer": "Hande Sinem Ergun",
+      "lectureHours": 2,
+      "labHours": 0,
+      "type": "UE",
+      "capacity": 71,
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ]
+      ]
+    },
+   {
+      "courseId": "SOC3082",
+      "courseName": "Environmental Sociology",
+      "credits": 3,
+      "lecturer": "Sinan Çaya",
+      "lectureHours": 2,
+      "labHours": 0,
+      "type": "UE",
+      "capacity": 40,
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ]
+    },
+  {
+      "courseId": "IKT1054",
+      "courseName": "Industrial and Economic Sociology",
+      "credits": 3,
+      "lecturer": "Sinan Çaya",
+      "lectureHours": 2,
+      "labHours": 0,
+      "type": "UE",
+      "capacity": 40,
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ]
+      ]
+    },
+  {
+      "courseId": "MRK3084",
+      "courseName": "Brand Creation/Branding",
+      "credits": 3,
+      "lecturer": "Aytün Alakuş",
+      "lectureHours": 2,
+      "labHours": 0,
+      "type": "UE",
+      "capacity": 61,
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          5,
+          9
+        ],
+        [
+          5,
+          10
+        ]
+      ]
+    },
+  {
+      "courseId": "COMM2060",
+      "courseName": "Communication Models and Techniques",
+      "credits": 3,
+      "lecturer": "Fatma Feyza Başaran",
+      "lectureHours": 2,
+      "labHours": 0,
+      "type": "UE",
+      "capacity": 65,
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          5,
+          9
+        ],
+        [
+          5,
+          10
+        ]
+      ]
+    },
+  {
+      "courseId": "HR1013",
+      "courseName": "Career Development",
+      "credits": 3,
+      "lecturer": "Hande Sinem Ergun",
+      "lectureHours": 2,
+      "labHours": 0,
+      "type": "UE",
+      "capacity": 60,
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ]
+      ]
+    },
    /// 
    ///-----Faculty Technical Electives-----
   
