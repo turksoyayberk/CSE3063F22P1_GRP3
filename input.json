@@ -10,5 +10,17 @@
   "labCapacityLimit": 40,
   "electiveCapacityLimit": 60,
   "randomLabAssistant": false,
-  "departmentNumber": 1501
+  "departmentNumber": 1501,
+    "curriculum": {
+    "1": [
+      "ATA121",
+      "MBG1201",
+      "CSE1200",
+      "CSE1241",
+      "MATH1001",
+      "PHYS1101",
+      "PHYS1103",
+      "TRD121"
+    ]
+}
 }
