@@ -1311,7 +1311,227 @@
     
       //
       //-----Fourth Year-----
-    
+      "curriculum": {
+    "7": [
+      "CSE4000",
+      "CSE4074",
+      "CSE4219",
+      "CSE4297",
+      "ISG121",
+      "CSE4288"
+    ],
+    "8": [
+      "CSE4298",
+      "ISG122"
+    ]
+  },
+  "courses": [
+    {
+
+      "semester": 7
+    },
+    {
+      "courseId": "CSE4000",
+      "courseName": "Summer Practice II ",
+      "credits": 10,
+      "minCompletedCredits": 165,
+      "lecturer": null,
+      "lectureHours": 0,
+      "labHours": 0,
+      "type": "M",
+      "prerequisites": null,
+      "prerequisiteTo": [
+        null
+      ],
+      "schedule": [
+
+      ],
+
+      "semester": 7
+    },
+    {
+      "courseId": "CSE4074",
+      "courseName": "Computer Networks",
+      "credits": 3,
+      "lecturer": null,
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "M",
+      "prerequisites": null,
+      "prerequisiteTo": [
+        "CSE4075"
+      ],
+      "schedule": [
+        [
+          1,
+          7
+        ],
+        [
+          4,
+          7
+        ],
+        [
+          4,
+          8
+        ]
+
+      ],
+
+      "semester": 7
+    },
+    {
+      "courseId": "CSE4219",
+      "courseName": "Principles of Embedded System Design",
+      "credits": 6,
+      "lecturer": null,
+      "lectureHours": 3,
+      "labHours": 2,
+      "type": "M",
+      "prerequisites": null,
+      "prerequisiteTo": [
+        "CSE3038"
+      ],
+      "schedule": [
+        [
+          1,
+          7
+        ],
+        [
+          4,
+          7
+        ],
+        [
+          4,
+          8
+        ]
+
+      ],
+
+
+
+      
+      "semester": 7
+    },
+    {
+      "courseId": "CSE4297",
+      "courseName": "Engineering Project I",
+      "credits": 2,
+      "lecturer": null,
+      "lectureHours": 0,
+      "labHours": 4,
+      "type": "M",
+      "prerequisites": null,
+      "prerequisiteTo": [
+        "CSE4298"
+      ],
+      "schedule": [
+        [
+          1,
+          10
+        ],
+        [
+          1,
+          11
+        ]
+      ],
+      "semester": 7
+    },
+    {
+      "courseId": "ISG121",
+      "courseName": İş Sağlığı ve Güvenliği I",
+      "credits": 2,
+      "lecturer": 21,
+      "lectureHours": 2,
+      "labHours": 0,
+      "type": "M",
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          2,
+          10
+        ],
+        [
+          2,
+          11
+        ]
+      ],
+      "semester": 7
+    },
+    {
+      "courseId": "CSE4288",
+      "courseName": "Introduction to Machine Learning",
+      "credits": 5,
+      "lecturer": 12,
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "M",
+      "prerequisites": null,
+      "prerequisiteTo":
+         "STAT2253",
+         "MATH2256",
+      "schedule": [
+        [
+          2,
+          8
+        ],
+        [
+          2,
+          9
+        ],
+        [
+          3,
+          8
+        ]
+      ],
+      "semester": 8
+    },
+    {
+      "courseId": "CSE4298",
+      "courseName": "Engineering Project II",
+      "credits": 2,
+      "lecturer": null,
+      "lectureHours": 0,
+      "labHours": 4,
+      "type": "M",
+      "prerequisites": [
+        "CSE4297"
+      ],
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          3,
+          10
+        ],
+        [
+          3,
+          11
+        ]
+      ],
+      "semester": 8
+    },
+    {
+      "courseId": "ISG122",
+      "courseName": "İş Sağlığı ve Güvenliği II",
+      "credits": 2,
+      "lecturer": 21,
+      "lectureHours": 2,
+      "labHours": 0,
+      "type": "M",
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          6,
+          6
+        ],
+        [
+          6,
+          7
+        ]
+      ],
+  ]
+
       //
    ///
   
