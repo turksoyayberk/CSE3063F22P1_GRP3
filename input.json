@@ -11,7 +11,7 @@
   "electiveCapacityLimit": 60,
   "randomLabAssistant": false,
   "departmentNumber": 1501,
-  ///-----Curriculum----- 
+  /*///-----Curriculum-----*/
   "curriculum": {
     "1": [
       "ATA121",
