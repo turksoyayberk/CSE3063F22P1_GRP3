@@ -2708,6 +2708,47 @@
       "name": "Bet\u00fcl Boz",
       "department": "CSE"
     },
+    {
+      "id": 9,
+      "name": "Ali Haydar \u00d6zer",
+      "department": "CSE"
+    },
+    {
+      "id": 10,
+      "name": "Murat Can Ganiz",
+      "department": "CSE"
+    },
+    {
+      "id": 11,
+      "name": "Mehmet Kadir Baran",
+      "department": "CSE"
+    },
+    {
+      "id": 12,
+      "name": "\u00c7i\u011fdem Ero\u011flu Erdem",
+      "department": "CSE"
+    },
+    {
+      "id": 13,
+      "name": "Haluk Rahmi Top\u00E7uo\u011Flu",
+      "department": "CSE"
+    },
+    {
+      "id": 14,
+      "name": "Beste Turanl\u0131",
+      "department": null
+    },
+    {
+      "id": 15,
+      "name": "M. Nureddin T\u00fcrkan",
+      "department": null
+    },
+    {
+      "id": 16,
+      "name": "Mustafa Alevli",
+      "department": null
+    },
+  
   
   ////
   
@@ -2722,6 +2763,16 @@
     {
       "id": 2,
       "name": "Zuhal Altunta\u015f",
+      "department": "CSE"
+    },
+    {
+      "id": 3,
+      "name": "Serap Korkmaz",
+      "department": "CSE"
+    },
+    {
+      "id": 4,
+      "name": "Muhammed Nur Avcil",
       "department": "CSE"
     },
     
