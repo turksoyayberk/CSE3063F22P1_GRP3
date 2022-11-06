@@ -39,7 +39,503 @@
   
    ///-----Required Courses-----
       //-----First Year-----
-    
+   
+  "courses": [
+    {
+      "courseId": "ATA121",
+      "courseName": "Ataturk\u2019s Principles and the History of Turkish Renovation I",
+      "credits": 2,
+      "lecturer": 13,
+      "lectureHours": 2,
+      "labHours": 0,
+      "type": "M",
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          7,
+          9
+        ],
+        [
+          7,
+          10
+        ]
+      ],
+      "semester": 1
+    },
+    {
+      "courseId": "MBG1201",
+      "courseName": "Introduction to Modern Biology",
+      "credits": 5,
+      "lecturer": 14,
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "M",
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          5,
+          2
+        ]
+      ],
+      "semester": 1
+    },
+    {
+      "courseId": "CSE1200",
+      "courseName": "Introduction to Computer Engineering",
+      "credits": 4,
+      "lecturer": 1,
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "M",
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          3,
+          6
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          5,
+          4
+        ]
+      ],
+      "semester": 1
+    },
+    {
+      "courseId": "CSE1241",
+      "courseName": "Computer Programming I",
+      "credits": 6,
+      "lecturer": 3,
+      "lectureHours": 3,
+      "labHours": 2,
+      "type": "M",
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "labSections": [
+        [
+          [
+            5,
+            6
+          ],
+          [
+            5,
+            7
+          ]
+        ],
+       [
+         [
+           2,
+           3
+         ],
+         [
+            2,
+            4
+         ]
+        ],
+       [
+        [
+           4,
+           3
+        ],
+        [
+           4,
+           4
+        ]
+      ]
+    ],
+      "schedule": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          3,
+          6
+        ]
+      ],
+      "semester": 1,
+      "teachingAssistants": [
+        2,
+        3
+      ],
+      "labSectionCapacity": 40
+    },
+    {
+      "courseId": "MATH1001",
+      "courseName": "Calculus I",
+      "credits": 6,
+      "lecturer": ,
+      "lectureHours": 4,
+      "labHours": 0,
+      "type": "M",
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          4,
+          7
+        ]
+      ],
+      "semester": 1
+    },
+    {
+      "courseId": "PHYS1101",
+      "courseName": "Physics I",
+      "credits": 4,
+      "lecturer": 16,
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "M",
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          1,
+          5
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          1,
+          7
+        ]
+      ],
+      "semester": 1
+    },
+    {
+      "courseId": "PHYS1103",
+      "courseName": "Physics Lab I",
+      "credits": 2,
+      "lecturer": ,
+      "lectureHours": 0,
+      "labHours": 2,
+      "type": "M",
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule":[
+      [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+     [
+       [
+          5,
+          8
+       ],
+       [
+          5,
+          9
+       ]
+      ],
+     [
+       [
+          3,
+          1
+       ],
+       [
+          3,
+          2
+       ]
+     ]
+  ],
+      "semester": 1
+    },
+    {
+      "courseId": "TRD121",
+      "courseName": "T\u00fcrk Dili I",
+      "credits": 2,
+      "lecturer": 17,
+      "lectureHours": 2,
+      "labHours": 0,
+      "type": "M",
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          6,
+          3
+        ],
+        [
+          6,
+          4
+        ]
+      ],
+      "semester": 1
+    },
+    {
+      "courseId": "ATA122",
+      "courseName": "Ataturk\u2019s Principles and the History of Turkish Renovation II",
+      "credits": 2,
+      "lecturer": 13,
+      "lectureHours": 2,
+      "labHours": 0,
+      "type": "M",
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          2,
+          14
+        ],
+        [
+          2,
+          15
+        ]
+      ],
+      "semester": 2
+    },
+    {
+      "courseId": "CSE1242",
+      "courseName": "Computer Programming II",
+      "credits": 6,
+      "lecturer": ,
+      "lectureHours": 3,
+      "labHours": 2,
+      "type": "M",
+      "prerequisites": null,
+      "prerequisiteTo": [
+        "CSE2225"
+      ],
+      "labSections": [
+        [
+          [
+            2,
+            5
+          ],
+          [
+            2,
+            6
+          ]
+       ],
+        [
+          [
+            3,
+            5
+          ],
+          [
+            3,
+            6
+          ]
+        ]
+      ],
+      "schedule": [
+        [
+          1,
+          5
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          5,
+          4
+        ]
+      ],
+      "semester": 2,
+      "teachingAssistants": [
+        1
+      ],
+      "labSectionCapacity": 45
+    },
+    {
+      "courseId": "MATH1002",
+      "courseName": "Calculus II",
+      "credits": 6,
+      "lecturer": ,
+      "lectureHours": 4,
+      "labHours": 0,
+      "type": "M",
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ]
+      ],
+      "semester": 2
+    },
+    {
+      "courseId": "MATH2256",
+      "courseName": "Linear Algebra for Computer Engineering",
+      "credits": 5,
+      "lecturer": ,
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "M",
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          2,
+          3
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ]
+      ],
+      "semester": 2
+    },
+    {
+      "courseId": "PHYS1102",
+      "courseName": "Physics II",
+      "credits": 4,
+      "lecturer": 16,
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "M",
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          4,
+          6
+        ],
+        [
+          4,
+          7
+        ],
+        [
+          4,
+          8
+        ]
+      ],
+      "semester": 2
+    },
+    {
+      "courseId": "PHYS1104",
+      "courseName": "Physics Lab II",
+      "credits": 2,
+      "lecturer": ,
+      "lectureHours": 0,
+      "labHours": 2,
+      "type": "M",
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+       [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+     [
+      [
+         1,
+         3
+     ],
+     [
+         1,
+         4
+      ]
+     ],
+    [
+     [
+         5,
+         6
+     ],
+     [
+         5,
+         7
+     ]
+    ],
+      [
+        [
+           5,
+           1
+        ],
+        [
+           5,
+           2
+        ]
+       ]
+      ],
+        
+      "semester": 2
+    },
+    {
+      "courseId": "TRD122",
+      "courseName": "T\u00fcrk Dili II",
+      "credits": 2,
+      "lecturer": 17,
+      "lectureHours": 2,
+      "labHours": 0,
+      "type": "M",
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "schedule": [
+        [
+          7,
+          7
+        ],
+        [
+          7,
+          8
+        ]
+      ],
+      "semester": 2
+    },
+  
       //
       //-----Second Year-----
     
