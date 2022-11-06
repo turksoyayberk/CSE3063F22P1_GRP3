@@ -2663,13 +2663,71 @@
     }
    ///
   
- ]////
+ ],
+////
   
   ////-----Lecturers-----
+"lecturers": [
+    {
+      "id": 1,
+      "name": "Fatma Corut Ergin",
+      "department": "CSE"
+    },
+    {
+      "id": 2,
+      "name": "Mustafa A\u011fao\u011flu",
+      "department": "CSE"
+    },
+    {
+      "id": 3,
+      "name": "Sanem Arslan Y\u0131lmaz",
+      "department": "CSE"
+    },
+    {
+      "id": 4,
+      "name": "Ali Fuat Alkaya",
+      "department": "CSE"
+    },
+    {
+      "id": 5,
+      "name": "Mustafa Borahan T\u00fcmer",
+      "department": "CSE"
+    },
+    {
+      "id": 6,
+      "name": "\u00d6mer Kor\u00e7ak",
+      "department": "CSE"
+    },
+    {
+      "id": 7,
+      "name": "M\u00fcjdat Soyt\u00fcrk",
+      "department": "CSE"
+    },
+    {
+      "id": 8,
+      "name": "Bet\u00fcl Boz",
+      "department": "CSE"
+    },
   
   ////
   
-  ////-----Teaching Assistants-----
   
+  ],////-----Teaching Assistants-----
+  "teachingAssistants": [
+    {
+      "id": 1,
+      "name": "Birol Gen\u00e7y\u0131lmaz",
+      "department": "CSE"
+    },
+    {
+      "id": 2,
+      "name": "Zuhal Altunta\u015f",
+      "department": "CSE"
+    },
+    
+    
+    
+    
+  ]
   ////
 }
