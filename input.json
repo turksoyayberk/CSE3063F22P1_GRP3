@@ -1,0 +1,14 @@
+{
+  "departmentName": "Computer Engineering",
+  "departmentId": "CSE",
+  "faculty": "Engineering",
+  "currentSemester": "spring",
+  "maximumCredits": 260,
+  "numberOfLectureDays": 5,
+  "numberOfLectureHours": 15,
+  "courseTakeLimit": 10,
+  "labCapacityLimit": 40,
+  "electiveCapacityLimit": 60,
+  "randomLabAssistant": false,
+  "departmentNumber": 1501
+}
