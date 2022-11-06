@@ -11,7 +11,7 @@
   "electiveCapacityLimit": 60,
   "randomLabAssistant": false,
   "departmentNumber": 1501,
-  /*///-----Curriculum-----*/
+  ////-----Curriculum-----
   "curriculum": {
     "1": [
       "ATA121",
@@ -33,24 +33,40 @@
       "TRD122",
       "NTE-1"
     ]
-  }///--------
+  }////--------
   
- ///-----Courses-----
-   //-----Required Courses-----
+ ////-----Courses-----
+  
+   ///-----Required Courses-----
+      //-----First Year-----
+    
+      //
+      //-----Second Year-----
+    
+      //
+      //-----Third Year-----
+    
+      //
+      //-----Fourth Year-----
+    
+      //
+   ///
+  
+   ///-----Elective Courses-----
       
-   //
-   //-----Elective Courses-----
+   ///
+  
+   ///-----Non-Elective Courses-----
       
-   //
-   //-----Non-Elective Courses-----
-      
-   //
- ///
+   ///
   
-  ///-----Lecturers-----
+ ////
   
-  ///
-  ///-----Teaching Assistants-----
+  ////-----Lecturers-----
   
-  ///
+  ////
+  
+  ////-----Teaching Assistants-----
+  
+  ////
 }
