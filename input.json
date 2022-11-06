@@ -535,7 +535,10 @@
       ],
       "semester": 2
     },
-    {
+    
+      //
+      //-----Second Year-----
+     {
         "courseId": "CSE2023",
         "courseName": "Discrete Computational Structures",
         "credits": 6,
@@ -898,11 +901,8 @@
           ]
         ],
         "semester": 4
-      }
-  ]
-      //
-      //-----Second Year-----
-    
+      },
+  
       //
       //-----Third Year-----
     
@@ -1428,7 +1428,7 @@
   
    ///
   
- ////
+ ]////
   
   ////-----Lecturers-----
   
