@@ -673,7 +673,7 @@
         "courseId": "ECON2004",
         "courseName": "Engineering Economy",
         "credits": 4,
-        "lecturer": 44,
+        "lecturer": 17,
         "lectureHours": 2,
         "labHours": 0,
         "type": "M",
@@ -695,7 +695,7 @@
         "courseId": "EE2031",
         "courseName": "Electric Circuits",
         "credits": 5,
-        "lecturer": 20,
+        "lecturer": 18,
         "lectureHours": 3,
         "labHours": 0,
         "type": "M",
@@ -721,7 +721,7 @@
         "courseId": "MATH2055",
         "courseName": "Differential Equations",
         "credits": 4,
-        "lecturer": 45,
+        "lecturer": 48,
         "lectureHours": 3,
         "labHours": 0,
         "type": "M",
@@ -904,7 +904,7 @@
         "courseId": "EE2032",
         "courseName": "Electronics",
         "credits": 5,
-        "lecturer": 46,
+        "lecturer": 49,
         "lectureHours": 2,
         "labHours": 2,
         "type": "M",
@@ -2190,7 +2190,7 @@
       "courseId": "YDA1001",
       "courseName": "German for Beginners",
       "credits": 3,
-      "lecturer": "29",
+      "lecturer": 29,
       "lectureHours": 2,
       "labHours": 0,
       "type": "NTE",
@@ -2212,7 +2212,7 @@
       "courseId": "YDA1002",
       "courseName": "German",
       "credits": 3,
-      "lecturer": "29",
+      "lecturer": 29,
       "lectureHours": 2,
       "labHours": 0,
       "type": "NTE",
@@ -2234,7 +2234,7 @@
       "courseId": "YDA1003",
       "courseName": "German Communication",
       "credits": 3,
-      "lecturer": "Gülizar Semra Özkurt",
+      "lecturer": 29,
       "lectureHours": 2,
       "labHours": 0,
       "type": "NTE",
@@ -2256,7 +2256,7 @@
       "courseId": "NTE1003",
       "courseName": "The Culture of Radiation Safety",
       "credits": 3,
-      "lecturer": "Deniz Öner",
+      "lecturer": 21,
       "lectureHours": 2,
       "labHours": 0,
       "type": "NTE",
@@ -2278,7 +2278,7 @@
       "courseId": "NTE1014",
       "courseName": "Introduction to Strategic Human Resources Management",
       "credits": 3,
-      "lecturer": "Özlem Yılmaz",
+      "lecturer":22,
       "lectureHours": 2,
       "labHours": 0,
       "type": "NTE",
@@ -2300,7 +2300,7 @@
       "courseId": "NTE1015",
       "courseName": "Introduction to Leadership & Management for Engineeers",
       "credits": 3,
-      "lecturer": "Özlem Yılmaz",
+      "lecturer": 22,
       "lectureHours": 2,
       "labHours": 0,
       "type": "NTE",
@@ -2322,7 +2322,7 @@
       "courseId": "NTE1016",
       "courseName": "Introduction to Strategy for Engineers",
       "credits": 3,
-      "lecturer": "Özlem Yılmaz",
+      "lecturer": 22,
       "lectureHours": 2,
       "labHours": 0,
       "type": "NTE",
@@ -2344,7 +2344,7 @@
       "courseId": "NTE1018",
       "courseName": "Introduction to Business World for Engineers",
       "credits": 3,
-      "lecturer": "Özlem Yılmaz",
+      "lecturer": 22,
       "lectureHours": 2,
       "labHours": 0,
       "type": "NTE",
@@ -2366,7 +2366,7 @@
       "courseId": "NTE1017",
       "courseName": "Marketing in a Technology Driven World for Engineers",
       "credits": 3,
-      "lecturer": "Caner Dilmener",
+      "lecturer":23,
       "lectureHours": 2,
       "labHours": 0,
       "type": "NTE",
@@ -2432,7 +2432,7 @@
       "courseId": "OB3043",
       "courseName": "Organizational Behaviour",
       "credits": 3,
-      "lecturer": "Cahit Köse",
+      "lecturer": 44,
       "lectureHours": 2,
       "labHours": 0,
       "type": "NTE",
@@ -2454,7 +2454,7 @@
       "courseId": "YDIS1001",
       "courseName": "Spanish for Beginners",
       "credits": 3,
-      "lecturer": "Rosa Maria Flores Rangel",
+      "lecturer": 45,
       "lectureHours": 2,
       "labHours": 0,
       "type": "NTE",
@@ -2476,7 +2476,7 @@
       "courseId": "YDIS1002",
       "courseName": "Spanish",
       "credits": 3,
-      "lecturer": "Rosa Maria Flores Rangel",
+      "lecturer": 45,
       "lectureHours": 2,
       "labHours": 0,
       "type": "NTE",
@@ -2498,7 +2498,7 @@
       "courseId": "NTE1006",
       "courseName": "Basic Principles of Accessibility in Informatics and Technology",
       "credits": 3,
-      "lecturer": "Engin Yılmaz",
+      "lecturer": 46,
       "lectureHours": 2,
       "labHours": 0,
       "type": "NTE",
@@ -2520,7 +2520,7 @@
       "courseId": "NTE1010",
       "courseName": "Introduction to Finance for Engineers",
       "credits": 3,
-      "lecturer": "Turgay Özbek",
+      "lecturer": 47,
       "lectureHours": 2,
       "labHours": 0,
       "type": "NTE",
@@ -2542,7 +2542,7 @@
       "courseId": "BUS1003",
       "courseName": "Entrepreneurship and Innovation",
       "credits": 3,
-      "lecturer": "28",
+      "lecturer": 28,
       "lectureHours": 2,
       "labHours": 0,
       "type": "UE",
@@ -2564,7 +2564,7 @@
       "courseId": "BUS1004",
       "courseName": "Strategic Entrepreneurship",
       "credits": 3,
-      "lecturer": "28",
+      "lecturer": 28,
       "lectureHours": 2,
       "labHours": 0,
       "type": "UE",
@@ -2586,7 +2586,7 @@
       "courseId": "SOC3082",
       "courseName": "Environmental Sociology",
       "credits": 3,
-      "lecturer": "30",
+      "lecturer": 30,
       "lectureHours": 2,
       "labHours": 0,
       "type": "UE",
@@ -2608,7 +2608,7 @@
       "courseId": "IKT1054",
       "courseName": "Industrial and Economic Sociology",
       "credits": 3,
-      "lecturer": "30",
+      "lecturer": 30,
       "lectureHours": 2,
       "labHours": 0,
       "type": "UE",
@@ -2630,7 +2630,7 @@
       "courseId": "MRK3084",
       "courseName": "Brand Creation/Branding",
       "credits": 3,
-      "lecturer": "31",
+      "lecturer": 31,
       "lectureHours": 2,
       "labHours": 0,
       "type": "UE",
@@ -2652,7 +2652,7 @@
       "courseId": "COMM2060",
       "courseName": "Communication Models and Techniques",
       "credits": 3,
-      "lecturer": "32",
+      "lecturer": 32,
       "lectureHours": 2,
       "labHours": 0,
       "type": "UE",
@@ -2674,7 +2674,7 @@
       "courseId": "HR1013",
       "courseName": "Career Development",
       "credits": 3,
-      "lecturer": "28",
+      "lecturer": 28,
       "lectureHours": 2,
       "labHours": 0,
       "type": "UE",
@@ -3067,7 +3067,41 @@
       "name": "Mustafa Alevli",
       "department": null
     },
-  
+    {
+      "id": 17,
+      "name": "Ayse Bengi Ozluarda Hamarat",
+      "department": null
+    },
+    {
+      "id": 18,
+      "name": "Fulya Callialp",
+      "department": null
+    },
+    {
+      "id": 19,
+      "name": "Zeynep Yilmaz",
+      "department": null
+    },
+    {
+      "id": 20,
+      "name": "Oguzhan Ceylan",
+      "department": null
+    },
+    {
+      "id": 21,
+      "name": "Deniz Oner",
+      "department": null
+    },
+    {
+      "id": 22,
+      "name": "Ozlem Yilmaz",
+      "department": null
+    },
+    {
+      "id": 23,
+      "name": "Caner Dilmener",
+      "department": null
+    },
   
   
   
@@ -3078,17 +3112,17 @@
     },
     {
       "id": 25,
-      "name": "H\u00fcseyin Yaltirik",
+      "name": "Huseyin Yaltirik",
       "department": null
     },
    {
       "id": 26,
-      "name": "Nurg\u00fcl Yildiz",
+      "name": "Nurgul Yildiz",
       "department": null
     },
    {
       "id": 27,
-      "name": "Caner De\u011fer",
+      "name": "Caner Deger",
       "department": null
     },
   {
@@ -3098,43 +3132,43 @@
     },
    {
       "id": 29,
-      "name": "G\u00fclizar Semra \u00d6zkurt",
+      "name": "Gulizar Semra Ozkurt",
       "department": null
     },
   
    {
       "id": 30,
-      "name": "Sinan \u00c7aya",
+      "name": "Sinan Caya",
       "department": null
     },
   {
       "id": 31,
-      "name": "Ayt\u00fcn Alaku\u015f",
+      "name": "Aytun Alakus",
       "department": null
     },
    {
       "id": 32,
-      "name": "Fatma Feyza Ba\u015faran",
+      "name": "Fatma Feyza Basaran",
       "department": null
     },
    {
       "id": 33,
-      "name": "Ahu Altinkut Uncuoglu",
+      "name": "Ahu Altinkurt Uncuoglu",
       "department": null
     },
   {
       "id": 34,
-      "name": "\u015eakir Bingöl",
+      "name": "Sakir Bingol",
       "department": null
     },
   {
       "id": 35,
-      "name": "Gökhan Bora Esmer",
+      "name": "Gokhan Bora Esmer",
       "department": null
     },
   {
       "id": 36,
-      "name": "Sıddık Sinan Keskin",
+      "name": "Siddik Sinan Keskin",
       "department": null
     },
   {
@@ -3144,51 +3178,64 @@
     },
   {
       "id": 38,
-      "name": "Mahmure \u00d6v\u00fcl Arıo\u011flu",
+      "name": "Mahmure Ovul Arıoglu",
       "department": null
     },
   {
       "id": 39,
-      "name": "U\u011fur T\u00fcmerdem",
+      "name": "Ugur Tumerdem",
       "department": null
     },
   {
       "id": 40,
-      "name": "Beytullah G\u00fcltekin \u00c7etiner",
+      "name": "Beytullah Gultekin Cetiner",
       "department": null
     },
   {
       "id": 41,
-      "name": "H\u00fclya Aslano\u011flu",
+      "name": "Hulya Aslanoglu",
       "department": null
     },
   {
       "id": 42,
-      "name": "\u00dcnsal Atasoy",
+      "name": "Unsal Atasoy",
       "department": null
     },
   {
       "id": 43,
-      "name": "G\u00f6rkem Yumu\u015fak",
+      "name": "Gorkem Yumusak",
       "department": null
     },
-  
-  {
+    {
       "id": 44,
-      "name": "Ay\u015fe Beng\u00fc \u00d6zl\u00fco\u011flu Hamarat",
+      "name": "Cahit Kose",
       "department": null
     },
-  {
+    {
       "id": 45,
+      "name": "Rose Maria Flores Rangel",
+      "department": null
+    },
+    {
+      "id": 46,
+      "name": "Engin Yilmaz",
+      "department": null
+    },
+    {
+      "id": 47,
+      "name": "Turgay Ozbek",
+      "department": null
+    },
+    {
+      "id": 48,
       "name": "Zeynep Yilmaz",
       "department": null
     },
   {
-      "id": 46,
+      "id": 49,
       "name": "Oguzhan Ceylan",
       "department": null
     }
-  
   ////
   
   
