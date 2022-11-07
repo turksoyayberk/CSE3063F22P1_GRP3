@@ -535,6 +535,18 @@
       ],
       "semester": 2
     },
+    {
+      "courseId": "NTE-1",
+      "courseName": "Non-Technical Elective - 1",
+      "credits": 3,
+      "lecturer": null,
+      "lectureHours": 2,
+      "labHours": 0,
+      "type": "NTE",
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "semester": 2
+    },   
     
       //
       //-----Second Year-----
@@ -1311,7 +1323,90 @@
     
       //
       //-----Fourth Year-----
-    
+    {
+      "courseId": "UE",
+      "courseName": "University Elective",
+      "credits": 3,
+      "lecturer": null,
+      "lectureHours": 2,
+      "labHours": 0,
+      "type": "UE",
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "semester": 7
+    },
+    {
+      "courseId": "TE-1",
+      "courseName": "Technical Elective-1",
+      "credits": 5,
+      "lecturer": null,
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "TE",
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "semester": 7
+    },
+{
+      "courseId": "FTE",
+      "courseName": "Faculty Technical Electives",
+      "credits": 5,
+      "lecturer": null,
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "FTE",
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "semester": 8
+    },
+    {
+      "courseId": "NTE-2",
+      "courseName": "Non-Technical Elective - 2",
+      "credits": 3,
+      "lecturer": null,
+      "lectureHours": 2,
+      "labHours": 0,
+      "type": "NTE",
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "semester": 8
+    },
+    {
+      "courseId": "TE-2",
+      "courseName": "Technical Elective-2",
+      "credits": 5,
+      "lecturer": null,
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "TE",
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "semester": 8
+    },
+    {
+      "courseId": "TE-3",
+      "courseName": "Technical Elective-3",
+      "credits": 5,
+      "lecturer": null,
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "TE",
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "semester": 8
+    },
+    {
+      "courseId": "TE-4",
+      "courseName": "Technical Elective-4",
+      "credits": 5,
+      "lecturer": null,
+      "lectureHours": 3,
+      "labHours": 0,
+      "type": "TE",
+      "prerequisites": null,
+      "prerequisiteTo": null,
+      "semester": 8
+    },
       //
    ///
   
