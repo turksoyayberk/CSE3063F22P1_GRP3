@@ -48,6 +48,38 @@
       "EE2032",
       "STAT2253"
     ],
+    "5": [
+      "CSE3215",
+      "CSE3033",
+      "CSE3055",
+      "CSE3063",
+      "IE3081"
+    ],
+    "6": [
+      "CSE3038",
+      "CSE3044",
+      "CSE3048",
+      "CSE3264",
+      "IE3235",
+      "COM2202"
+    ],
+   "7": [
+      "CSE4074",
+      "CSE4297",
+      "ISG121",
+      "CSE4288",
+      "ENG-UE",
+      "T-E1"
+    ],
+    "8": [
+      "CSE4298",
+      "ISG121",
+      "ENG-FTE",
+      "NTE-2",
+      "T-E2",
+      "T-E3",
+      "T-E4"
+    ]
   },////--------
   
  ////-----Courses-----
@@ -689,7 +721,7 @@
         "courseId": "MATH2055",
         "courseName": "Differential Equations",
         "credits": 4,
-        "lecturer": 19,
+        "lecturer": 48,
         "lectureHours": 3,
         "labHours": 0,
         "type": "M",
@@ -781,7 +813,7 @@
         "courseId": "CSE2138",
         "courseName": "System Programming",
         "credits": 7,
-        "lecturer": 1,
+        "lecturer": 8,
         "lectureHours": 3,
         "labHours": 2,
         "type": "M",
@@ -872,7 +904,7 @@
         "courseId": "EE2032",
         "courseName": "Electronics",
         "credits": 5,
-        "lecturer": 20,
+        "lecturer": 49,
         "lectureHours": 2,
         "labHours": 2,
         "type": "M",
@@ -1157,7 +1189,7 @@
       "courseId": "CSE3038",
       "courseName": "Computer Organization",
       "credits": 7,
-      "lecturer": 8,
+      "lecturer": 13,
       "lectureHours": 3,
       "labHours": 2,
       "type": "M",
@@ -1291,7 +1323,7 @@
       "courseId": "IE3235",
       "courseName": "Operations Research",
       "credits": 4,
-      "lecturer": null,
+      "lecturer": 23,
       "lectureHours": 3,
       "labHours": 0,
       "type": "M",
@@ -1317,7 +1349,7 @@
       "courseId": "COM2202",
       "courseName": "Technical Comm. and Entrepreneurship",
       "credits": 2,
-      "lecturer": null,
+      "lecturer": 32, //Değişebilir, dersin hocası daha belirlenmemiş.
       "lectureHours": 2,
       "labHours": 0,
       "type": "M",
@@ -1338,25 +1370,6 @@
     
       //
       //-----Fourth Year-----
-      "curriculum": {
-    "7": [
-      "CSE4000",
-      "CSE4074",
-      "CSE4219",
-      "CSE4297",
-      "ISG121",
-      "CSE4288"
-    ],
-    "8": [
-      "CSE4298",
-      "ISG122"
-    ]
-  },
-  "courses": [
-    {
-
-      "semester": 7
-    },
     {
       "courseId": "CSE4000",
       "courseName": "Summer Practice II ",
@@ -1380,7 +1393,7 @@
       "courseId": "CSE4074",
       "courseName": "Computer Networks",
       "credits": 3,
-      "lecturer": null,
+      "lecturer": 6,
       "lectureHours": 3,
       "labHours": 0,
       "type": "M",
@@ -1410,7 +1423,7 @@
       "courseId": "CSE4219",
       "courseName": "Principles of Embedded System Design",
       "credits": 6,
-      "lecturer": null,
+      "lecturer": null, //Hocası belirlenmemiş
       "lectureHours": 3,
       "labHours": 2,
       "type": "M",
@@ -3192,7 +3205,7 @@
       "id": 43,
       "name": "Gorkem Yumusak",
       "department": null
-    }
+    },
     {
       "id": 44,
       "name": "Cahit Kose",
@@ -3213,6 +3226,16 @@
       "name": "Turgay Ozbek",
       "department": null
     },
+    {
+      "id": 48,
+      "name": "Zeynep Yilmaz",
+      "department": null
+    },
+  {
+      "id": 49,
+      "name": "Oguzhan Ceylan",
+      "department": null
+    }
   ////
   
   
