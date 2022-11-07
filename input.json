@@ -601,7 +601,7 @@
         "courseId": "CSE2023",
         "courseName": "Discrete Computational Structures",
         "credits": 6,
-        "lecturer": 4,
+        "lecturer": 2,
         "lectureHours": 3,
         "labHours": 0,
         "type": "M",
@@ -673,7 +673,7 @@
         "courseId": "ECON2004",
         "courseName": "Engineering Economy",
         "credits": 4,
-        "lecturer": 19,
+        "lecturer": 44,
         "lectureHours": 2,
         "labHours": 0,
         "type": "M",
@@ -721,7 +721,7 @@
         "courseId": "MATH2055",
         "courseName": "Differential Equations",
         "credits": 4,
-        "lecturer": 15,
+        "lecturer": 45,
         "lectureHours": 3,
         "labHours": 0,
         "type": "M",
@@ -813,7 +813,7 @@
         "courseId": "CSE2138",
         "courseName": "System Programming",
         "credits": 7,
-        "lecturer": 1,
+        "lecturer": 8,
         "lectureHours": 3,
         "labHours": 2,
         "type": "M",
@@ -904,7 +904,7 @@
         "courseId": "EE2032",
         "courseName": "Electronics",
         "credits": 5,
-        "lecturer": null,
+        "lecturer": 46,
         "lectureHours": 2,
         "labHours": 2,
         "type": "M",
@@ -1189,7 +1189,7 @@
       "courseId": "CSE3038",
       "courseName": "Computer Organization",
       "credits": 7,
-      "lecturer": 8,
+      "lecturer": 13,
       "lectureHours": 3,
       "labHours": 2,
       "type": "M",
@@ -1323,7 +1323,7 @@
       "courseId": "IE3235",
       "courseName": "Operations Research",
       "credits": 4,
-      "lecturer": null,
+      "lecturer": 23,
       "lectureHours": 3,
       "labHours": 0,
       "type": "M",
@@ -1349,7 +1349,7 @@
       "courseId": "COM2202",
       "courseName": "Technical Comm. and Entrepreneurship",
       "credits": 2,
-      "lecturer": null,
+      "lecturer": 32, //Değişebilir, dersin hocası daha belirlenmemiş.
       "lectureHours": 2,
       "labHours": 0,
       "type": "M",
@@ -1393,7 +1393,7 @@
       "courseId": "CSE4074",
       "courseName": "Computer Networks",
       "credits": 3,
-      "lecturer": null,
+      "lecturer": 6,
       "lectureHours": 3,
       "labHours": 0,
       "type": "M",
@@ -1423,7 +1423,7 @@
       "courseId": "CSE4219",
       "courseName": "Principles of Embedded System Design",
       "credits": 6,
-      "lecturer": null,
+      "lecturer": null, //Hocası belirlenmemiş
       "lectureHours": 3,
       "labHours": 2,
       "type": "M",
@@ -3078,17 +3078,17 @@
     },
     {
       "id": 25,
-      "name": "Hüseyin Yaltırık",
+      "name": "H\u00fcseyin Yaltirik",
       "department": null
     },
    {
       "id": 26,
-      "name": "Nurgül Yıldız",
+      "name": "Nurg\u00fcl Yildiz",
       "department": null
     },
    {
       "id": 27,
-      "name": "Caner Değer",
+      "name": "Caner De\u011fer",
       "department": null
     },
   {
@@ -3098,33 +3098,33 @@
     },
    {
       "id": 29,
-      "name": "Gülizar Semra Özkurt",
+      "name": "G\u00fclizar Semra \u00d6zkurt",
       "department": null
     },
   
    {
       "id": 30,
-      "name": "Sinan Çaya",
+      "name": "Sinan \u00c7aya",
       "department": null
     },
   {
       "id": 31,
-      "name": "Aytün Alakuş",
+      "name": "Ayt\u00fcn Alaku\u015f",
       "department": null
     },
    {
       "id": 32,
-      "name": "Fatma Feyza Başaran",
+      "name": "Fatma Feyza Ba\u015faran",
       "department": null
     },
    {
       "id": 33,
-      "name": "AHU ALTINKUT UNCUOĞLU",
+      "name": "Ahu Altinkut Uncuoglu",
       "department": null
     },
   {
       "id": 34,
-      "name": "Şakir Bingöl",
+      "name": "\u015eakir Bingöl",
       "department": null
     },
   {
@@ -3144,32 +3144,48 @@
     },
   {
       "id": 38,
-      "name": "Mahmure Övül Arıoğlu",
+      "name": "Mahmure \u00d6v\u00fcl Arıo\u011flu",
       "department": null
     },
   {
       "id": 39,
-      "name": "Uğur Tümerdem",
+      "name": "U\u011fur T\u00fcmerdem",
       "department": null
     },
   {
       "id": 40,
-      "name": "Beytullah Gültekin Çetiner",
+      "name": "Beytullah G\u00fcltekin \u00c7etiner",
       "department": null
     },
   {
       "id": 41,
-      "name": "Hülya Aslanoğlu",
+      "name": "H\u00fclya Aslano\u011flu",
       "department": null
     },
   {
       "id": 42,
-      "name": "Ünsal Atasoy",
+      "name": "\u00dcnsal Atasoy",
       "department": null
     },
   {
       "id": 43,
-      "name": "Görkem Yumuşak",
+      "name": "G\u00f6rkem Yumu\u015fak",
+      "department": null
+    },
+  
+  {
+      "id": 44,
+      "name": "Ay\u015fe Beng\u00fc \u00d6zl\u00fco\u011flu Hamarat",
+      "department": null
+    },
+  {
+      "id": 45,
+      "name": "Zeynep Yilmaz",
+      "department": null
+    },
+  {
+      "id": 46,
+      "name": "Oguzhan Ceylan",
       "department": null
     }
   
