@@ -48,6 +48,38 @@
       "EE2032",
       "STAT2253"
     ],
+    "5": [
+      "CSE3215",
+      "CSE3033",
+      "CSE3055",
+      "CSE3063",
+      "IE3081"
+    ],
+    "6": [
+      "CSE3038",
+      "CSE3044",
+      "CSE3048",
+      "CSE3264",
+      "IE3235",
+      "COM2202"
+    ],
+   "7": [
+      "CSE4074",
+      "CSE4297",
+      "ISG121",
+      "CSE4288",
+      "ENG-UE",
+      "T-E1"
+    ],
+    "8": [
+      "CSE4298",
+      "ISG121",
+      "ENG-FTE",
+      "NTE-2",
+      "T-E2",
+      "T-E3",
+      "T-E4"
+    ]
   },////--------
   
  ////-----Courses-----
@@ -1338,25 +1370,6 @@
     
       //
       //-----Fourth Year-----
-      "curriculum": {
-    "7": [
-      "CSE4000",
-      "CSE4074",
-      "CSE4219",
-      "CSE4297",
-      "ISG121",
-      "CSE4288"
-    ],
-    "8": [
-      "CSE4298",
-      "ISG122"
-    ]
-  },
-  "courses": [
-    {
-
-      "semester": 7
-    },
     {
       "courseId": "CSE4000",
       "courseName": "Summer Practice II ",
