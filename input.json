@@ -32,7 +32,22 @@
       "PHYS1104",
       "TRD122",
       "NTE-1"
-    ]
+    ],
+    "3": [
+      "CSE2023",
+      "CSE2225",
+      "ECON2004",
+      "EE2031",
+      "MATH2055",
+      "MATH2059"
+    ],
+    "4": [
+      "CSE2246",
+      "CSE2138",
+      "CSE2260",
+      "EE2032",
+      "STAT2253"
+    ],
   },////--------
   
  ////-----Courses-----
@@ -2043,7 +2058,7 @@
       "courseId": "OB2040",
       "courseName": "Industrial Psychology",
       "credits": 3,
-      "lecturer": "Sinan Çaya",
+      "lecturer": "30",
       "lectureHours": 2,
       "labHours": 0,
       "type": "NTE",
@@ -2065,7 +2080,7 @@
       "courseId": "OB2041",
       "courseName": "Behavioral Sciences for Engineers",
       "credits": 3,
-      "lecturer": "Sinan Çaya",
+      "lecturer": "30",
       "lectureHours": 2,
       "labHours": 0,
       "type": "NTE",
@@ -2219,7 +2234,7 @@
       "courseId": "BUS1004",
       "courseName": "Strategic Entrepreneurship",
       "credits": 3,
-      "lecturer": "Hande Sinem Ergun",
+      "lecturer": "28",
       "lectureHours": 2,
       "labHours": 0,
       "type": "UE",
@@ -2241,7 +2256,7 @@
       "courseId": "SOC3082",
       "courseName": "Environmental Sociology",
       "credits": 3,
-      "lecturer": "Sinan Çaya",
+      "lecturer": "30",
       "lectureHours": 2,
       "labHours": 0,
       "type": "UE",
@@ -2263,7 +2278,7 @@
       "courseId": "IKT1054",
       "courseName": "Industrial and Economic Sociology",
       "credits": 3,
-      "lecturer": "Sinan Çaya",
+      "lecturer": "30",
       "lectureHours": 2,
       "labHours": 0,
       "type": "UE",
@@ -2285,7 +2300,7 @@
       "courseId": "MRK3084",
       "courseName": "Brand Creation/Branding",
       "credits": 3,
-      "lecturer": "Aytün Alakuş",
+      "lecturer": "31",
       "lectureHours": 2,
       "labHours": 0,
       "type": "UE",
@@ -2307,7 +2322,7 @@
       "courseId": "COMM2060",
       "courseName": "Communication Models and Techniques",
       "credits": 3,
-      "lecturer": "Fatma Feyza Başaran",
+      "lecturer": "32",
       "lectureHours": 2,
       "labHours": 0,
       "type": "UE",
@@ -2353,7 +2368,7 @@
       "courseId": "BIOE4072",
       "courseName": "Planning and Management of Research",
       "credits": 5,
-      "lecturer": null,
+      "lecturer": 33,
       "lectureHours": 3,
       "labHours": 0,
       "type": "FTE",
@@ -2379,7 +2394,7 @@
       "courseId": "EE4056",
       "courseName": "Introduction to Information Systems Management",
       "credits": 5,
-      "lecturer": null,
+      "lecturer": 34,
       "lectureHours": 3,
       "labHours": 0,
       "type": "FTE",
@@ -2405,7 +2420,7 @@
       "courseId": "EE4062",
       "courseName": "Introduction to Image Processing",
       "credits": 5,
-      "lecturer": null,
+      "lecturer": 35,
       "lectureHours": 3,
       "labHours": 0,
       "type": "FTE",
@@ -2431,7 +2446,7 @@
       "courseId": "ENVE4062",
       "courseName": "Energy and the Environment",
       "credits": 5,
-      "lecturer": null,
+      "lecturer": 36,
       "lectureHours": 3,
       "labHours": 0,
       "type": "FTE",
@@ -2457,7 +2472,7 @@
       "courseId": "IE4055",
       "courseName": "Design of Experiments",
       "credits": 5,
-      "lecturer": null,
+      "lecturer": 37,
       "lectureHours": 3,
       "labHours": 0,
       "type": "FTE",
@@ -2483,7 +2498,7 @@
       "courseId": "IE4087",
       "courseName": "Introduction to Total Quality Management",
       "credits": 5,
-      "lecturer": null,
+      "lecturer": 38,
       "lectureHours": 3,
       "labHours": 0,
       "type": "FTE",
@@ -2509,7 +2524,7 @@
       "courseId": "ME4018",
       "courseName": "Introduction to Robotics",
       "credits": 5,
-      "lecturer": null,
+      "lecturer": 39,
       "lectureHours": 3,
       "labHours": 0,
       "type": "FTE",
@@ -2532,36 +2547,10 @@
       ]
     },
     {
-      "courseId": "ME4022",
-      "courseName": "Control Systems",
-      "credits": 5,
-      "lecturer": null,
-      "lectureHours": 3,
-      "labHours": 0,
-      "type": "FTE",
-      "capacity": 30,
-      "prerequisites": null,
-      "prerequisiteTo": null,
-      "schedule": [
-        [
-          2,
-          6
-        ],
-        [
-          3,
-          3
-        ],
-        [
-          3,
-          4
-        ]
-      ]
-    },
-    {
       "courseId": "MGT4082",
       "courseName": "Advanced Innovative Design Management for Entrepreneurship",
       "credits": 5,
-      "lecturer": null,
+      "lecturer": 40,
       "lectureHours": 3,
       "labHours": 0,
       "type": "FTE",
@@ -2587,7 +2576,7 @@
       "courseId": "MGT4084",
       "courseName": "Innovation and New Product Development Management",
       "credits": 5,
-      "lecturer": null,
+      "lecturer": 41,
       "lectureHours": 3,
       "labHours": 0,
       "type": "FTE",
@@ -2613,7 +2602,7 @@
       "courseId": "MGT4088",
       "courseName": "Project Management for Engineers",
       "credits": 5,
-      "lecturer": null,
+      "lecturer": 42,
       "lectureHours": 3,
       "labHours": 0,
       "type": "FTE",
@@ -2639,7 +2628,7 @@
       "courseId": "MSE4073",
       "courseName": "Materials Engineering Economics and Plant Design",
       "credits": 5,
-      "lecturer": null,
+      "lecturer": 43,
       "lectureHours": 3,
       "labHours": 0,
       "type": "FTE",
@@ -2777,13 +2766,82 @@
       "name": "Hande Sinem Ergun",
       "department": null
     },
-  {
+   {
       "id": 29,
       "name": "Gülizar Semra Özkurt",
       "department": null
     },
   
-  
+   {
+      "id": 30,
+      "name": "Sinan Çaya",
+      "department": null
+    },
+  {
+      "id": 31,
+      "name": "Aytün Alakuş",
+      "department": null
+    },
+   {
+      "id": 32,
+      "name": "Fatma Feyza Başaran",
+      "department": null
+    },
+   {
+      "id": 33,
+      "name": "AHU ALTINKUT UNCUOĞLU",
+      "department": null
+    },
+  {
+      "id": 34,
+      "name": "Şakir Bingöl",
+      "department": null
+    },
+  {
+      "id": 35,
+      "name": "Gökhan Bora Esmer",
+      "department": null
+    },
+  {
+      "id": 36,
+      "name": "Sıddık Sinan Keskin",
+      "department": null
+    },
+  {
+      "id": 37,
+      "name": "Berna Balta",
+      "department": null
+    },
+  {
+      "id": 38,
+      "name": "Mahmure Övül Arıoğlu",
+      "department": null
+    },
+  {
+      "id": 39,
+      "name": "Uğur Tümerdem",
+      "department": null
+    },
+  {
+      "id": 40,
+      "name": "Beytullah Gültekin Çetiner",
+      "department": null
+    },
+  {
+      "id": 41,
+      "name": "Hülya Aslanoğlu",
+      "department": null
+    },
+  {
+      "id": 42,
+      "name": "Ünsal Atasoy",
+      "department": null
+    },
+  {
+      "id": 43,
+      "name": "Görkem Yumuşak",
+      "department": null
+    }
   
   ////
   
