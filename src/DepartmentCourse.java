@@ -20,8 +20,9 @@ public class DepartmentCourse {
 
     }
 
-    public String getCourseId(){
+    public String getCourseId() {
         return courseId;
+    }
 
     public void setCourseId(String courseId) {
         this.courseId = courseId;
@@ -35,11 +36,11 @@ public class DepartmentCourse {
         this.courseName = courseName;
     }
 
-    public ArrayList getRegisteredStudents() {
+    public ArrayList<Student> getRegisteredStudents() {
         return registeredStudents;
     }
 
-    public void setRegisteredStudents(ArrayList registeredStudents) {
+    public void setRegisteredStudents(ArrayList<Student> registeredStudents) {
         this.registeredStudents = registeredStudents;
     }
 
@@ -51,19 +52,19 @@ public class DepartmentCourse {
         this.lecturer = lecturer;
     }
 
-    public ArrayList getPrerequisites() {
+    public ArrayList<DepartmentCourse> getPrerequisites() {
         return prerequisites;
     }
 
-    public void setPrerequisites(ArrayList prerequisites) {
+    public void setPrerequisites(ArrayList<DepartmentCourse> prerequisites) {
         this.prerequisites = prerequisites;
     }
 
-    public ArrayList getPrerequisiteTo() {
+    public ArrayList<DepartmentCourse> getPrerequisiteTo() {
         return prerequisiteTo;
     }
 
-    public void setPrerequisiteTo(ArrayList prerequisiteTo) {
+    public void setPrerequisiteTo(ArrayList<DepartmentCourse> prerequisiteTo) {
         this.prerequisiteTo = prerequisiteTo;
     }
 
