@@ -1,9 +1,17 @@
-public class Student {
+import java.util.ArrayList;
+
+public class Student extends Person {
    private int studentID;
    private int semester;
    private int registerYear;
    private Lecturer advisor;
    private ArrayList<DepartmentCourse> allCourses;
+   private ArrayList<String> registrationMessages;
+
+   public Student(String name) {
+      super(name);
+      registrationMessages = new ArrayList<>();
+    }
 
 
    public int getStudentID() {
@@ -33,4 +41,11 @@ public class Student {
    public void setAdvisor(Lecturer advisor) {
       this.advisor = advisor;
    }
+
+   public void addRegistrationMessage(String message) {
+      registrationMessages.add(message);
+    }
+   public ArrayList<String> getRegistrationMessages() {
+      return registrationMessages;
+    }
 }
