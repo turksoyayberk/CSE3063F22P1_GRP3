@@ -13,11 +13,11 @@ public class DepartmentCourse {
     }
 
     public void addPrerequisite(DepartmentCourse course) {
-
+        prerequisites.add(course);
     }
 
     public void addPrerequisiteTo(DepartmentCourse course) {
-
+        prerequisiteTo.add(course);
     }
 
     public String getCourseId() {
