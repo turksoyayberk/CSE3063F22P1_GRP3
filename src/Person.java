@@ -2,7 +2,11 @@ public class Person {
 
         private String name;
         private Department department;
-
+        
+        public Person(String name, Department department) {
+            this.name = name;
+            this.department = department;
+        }
 
         public String setName() {
             this.name = name;
