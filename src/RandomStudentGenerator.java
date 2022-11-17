@@ -27,7 +27,7 @@ public class RandomStudentGenerator {
         student.setStudentID(id);
         student.setSemester(semester);
         student.setRegisterYear(registerYear);
-        student.setEducationLevel(educationlevel: "undergraduate");
+        student.setEducationLevel("undergraduate");
         student.setAdvisor(advisor);
         student.takeMandatoryCourses();
         student.takeElectiveCourses();
