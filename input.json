@@ -11,7 +11,7 @@
   "electiveCapacityLimit": 60,
   "randomLabAssistant": false,
   "departmentNumber": 1501,
-  ////-----Curriculum-----
+
   "curriculum": {
     "1": [
       "ATA121",
@@ -80,12 +80,7 @@
       "T-E3",
       "T-E4"
     ]
-  },////--------
-  
- ////-----Courses-----
-  
-   ///-----Required Courses-----
-      //-----First Year-----
+  },
    
   "courses": [
     {
@@ -595,8 +590,6 @@
       "semester": 2
     },
     
-      //
-      //-----Second Year-----
      {
         "courseId": "CSE2023",
         "courseName": "Discrete Computational Structures",
@@ -961,9 +954,6 @@
         ],
         "semester": 4
       },
-  
-      //
-      //-----Third Year-----
      {
       "courseId": "CSE3215",
       "courseName": "Digital Logic Design",
@@ -1351,7 +1341,7 @@
       "courseId": "COM2202",
       "courseName": "Technical Comm. and Entrepreneurship",
       "credits": 2,
-      "lecturer": 32, //Değişebilir, dersin hocası daha belirlenmemiş.
+      "lecturer": 32, 
       "lectureHours": 2,
       "labHours": 0,
       "type": "M",
@@ -1370,8 +1360,6 @@
       "semester": 6
     },
     
-      //
-      //-----Fourth Year-----
     {
       "courseId": "CSE4000",
       "courseName": "Summer Practice II ",
@@ -1425,7 +1413,7 @@
       "courseId": "CSE4219",
       "courseName": "Principles of Embedded System Design",
       "credits": 6,
-      "lecturer": null, //Hocası belirlenmemiş
+      "lecturer": null, 
       "lectureHours": 3,
       "labHours": 2,
       "type": "M",
@@ -1659,10 +1647,6 @@
       "semester": 8
     },
 
-      //
-   ///
-  
-   ///-----Elective Courses-----
          {
       "courseId": "CSE4026",
       "courseName": "Introduction to Robotics and Control Theory",
@@ -2185,9 +2169,8 @@
       "prerequisites": null,
       "prerequisiteTo": null
     },
-   ///
-  
-   ///-----Non-Elective Courses-----
+
+
       {
       "courseId": "YDA1001",
       "courseName": "German for Beginners",
@@ -2694,8 +2677,6 @@
         ]
       ]
     },
-   /// 
-   ///-----Faculty Technical Electives-----
   { 
       "courseId": "BIOE4072",
       "courseName": "Planning and Management of Research",
@@ -2982,12 +2963,8 @@
         ]
       ]
     }
-   ///
   
  ],
-////
-  
-  ////-----Lecturers-----
 "lecturers": [
     {
       "id": 1,
@@ -3238,10 +3215,7 @@
       "name": "Oguzhan Ceylan",
       "department": null
     }
-  ////
-  
-  
-  ],////-----Teaching Assistants-----
+  ],
   "teachingAssistants": [
     {
       "id": 1,
@@ -3268,5 +3242,4 @@
     
     
   ]
-  ////
 }
