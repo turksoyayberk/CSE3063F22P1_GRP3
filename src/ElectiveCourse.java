@@ -2,18 +2,19 @@ import java.util.ArrayList;
 
 public class ElectiveCourse extends DepartmentCourse{
     private String type;
-    private int capacity;
+    private final int capacity;
     
-    public ElectiveCourse(){
-        super();
+    public ElectiveCourse(String courseId, String courseName, int credits, int semester, int lectureHours, int capacity, String type) {
+        super(courseId, courseName, credits, semester, lectureHours);
+        this.capacity = capacity;
         this.type = type;
     }
     
     @Override
     public void addStudent (Student student) {
-        if (hasCapacity()) {
-            getRegisteredStudents().add(student);
-            decreaseCapacity();
+        if (this.capacity > 0) {
+            super.addStudent(student);
+            this.capacity--;
         }
     };
 
@@ -34,7 +35,7 @@ public class ElectiveCourse extends DepartmentCourse{
     }
 
     public boolean hasCapacity() {
-        return this.capacity != 0;
+        return this.capacity > 0;
     }
 
     public void increaseCapacity(){
