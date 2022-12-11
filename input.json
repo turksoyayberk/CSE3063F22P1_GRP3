@@ -2,14 +2,13 @@
   "departmentName": "Computer Engineering",
   "departmentId": "CSE",
   "faculty": "Engineering",
-  "currentSemester": "spring",
+  "currentSemester": "fall",
   "maximumCredits": 260,
-  "numberOfLectureDays": 5,
+  "numberOfLectureDays": 7,
   "numberOfLectureHours": 15,
   "courseTakeLimit": 10,
   "labCapacityLimit": 40,
   "electiveCapacityLimit": 60,
-  "randomLabAssistant": false,
   "departmentNumber": 1501,
 
   "curriculum": {
@@ -452,7 +451,7 @@
       "courseId": "MATH2256",
       "courseName": "Linear Algebra for Computer Engineering",
       "credits": 5,
-      "lecturer":999 ,
+      "lecturer":null ,
       "lectureHours": 3,
       "labHours": 0,
       "type": "M",
@@ -1359,26 +1358,6 @@
       ],
       "semester": 6
     },
-    
-    {
-      "courseId": "CSE4000",
-      "courseName": "Summer Practice II ",
-      "credits": 10,
-      "minCompletedCredits": 165,
-      "lecturer": null,
-      "lectureHours": 0,
-      "labHours": 0,
-      "type": "M",
-      "prerequisites": null,
-      "prerequisiteTo": [
-        null
-      ],
-      "schedule": [
-
-      ],
-
-      "semester": 7
-    },
     {
       "courseId": "CSE4074",
       "courseName": "Computer Networks",
@@ -1434,12 +1413,7 @@
           4,
           8
         ]
-
       ],
-
-
-
-      
       "semester": 7
     },
     {
@@ -1647,12 +1621,11 @@
       "prerequisiteTo": null,
       "semester": 8
     },
-
-         {
+    {
       "courseId": "CSE4026",
       "courseName": "Introduction to Robotics and Control Theory",
       "credits": 5,
-      "lecturer": "mehmet kadir baran",
+      "lecturer": 11,
       "lectureHours": 3,
       "labHours": 0,
       "type": "TE",
@@ -1690,7 +1663,7 @@
       "courseId": "CSE4034",
       "courseName": "Advanced Unix Programming",
       "credits": 5,
-      "lecturer": "sanem arslan yilmaz",
+      "lecturer": 3,
       "lectureHours": 3,
       "labHours": 0,
       "type": "TE",
@@ -1776,7 +1749,7 @@
       "courseId": "CSE4057",
       "courseName": "Information Systems Security",
       "credits": 5,
-      "lecturer": "omer korcak",
+      "lecturer": 6,
       "lectureHours": 3,
       "labHours": 0,
       "type": "TE",
@@ -1840,7 +1813,7 @@
       "courseId": "CSE4062",
       "courseName": "Introduction to Data Science and Analytics",
       "credits": 5,
-      "lecturer": "murat can ganiz",
+      "lecturer": 10,
       "lectureHours": 3,
       "labHours": 0,
       "type": "TE",
@@ -1878,7 +1851,7 @@
       "courseId": "CSE4065",
       "courseName": "Introduction to Computational Genomics",
       "credits": 5,
-      "lecturer": "betul boz",
+      "lecturer": 8,
       "lectureHours": 3,
       "labHours": 0,
       "type": "TE",
@@ -1940,7 +1913,7 @@
       "courseId": "CSE4075",
       "courseName": "Wireless and Mobile Networks",
       "credits": 5,
-      "lecturer": "mujdat soyturk",
+      "lecturer": 7,
       "lectureHours": 3,
       "labHours": 0,
       "type": "TE",
@@ -1968,7 +1941,7 @@
       "courseId": "CSE4082",
       "courseName": "Artificial Intelligence",
       "credits": 5,
-      "lecturer": "ali haydar ozer",
+      "lecturer": 9,
       "lectureHours": 3,
       "labHours": 0,
       "type": "TE",
@@ -1994,7 +1967,7 @@
       "courseId": "CSE4083",
       "courseName": "Computer Graphics",
       "credits": 5,
-      "lecturer": "mehmet kadir baran",
+      "lecturer": 11,
       "lectureHours": 3,
       "labHours": 0,
       "type": "TE",
@@ -2056,7 +2029,7 @@
       "courseId": "CSE4117",
       "courseName": "Microprocessors",
       "credits": 5,
-      "lecturer": "mehmet kadir baran",
+      "lecturer": 11,
       "lectureHours": 3,
       "labHours": 0,
       "type": "TE",
@@ -2084,7 +2057,7 @@
       "courseId": "CSE4093",
       "courseName": "Special Topics in Computer Engineering I",
       "credits": 5,
-      "lecturer": "mustafa borahan tumer",
+      "lecturer": 5,
       "lectureHours": 3,
       "labHours": 0,
       "type": "TE",
@@ -2110,7 +2083,7 @@
       "courseId": "CSE4094",
       "courseName": "Special Topics in Computer Engineering II",
       "credits": 5,
-      "lecturer": "fatma corut ergin",
+      "lecturer": 1,
       "lectureHours": 3,
       "labHours": 0,
       "type": "TE",
@@ -2136,7 +2109,7 @@
       "courseId": "CSE4095",
       "courseName": "Special Topics in Computer Engineering III",
       "credits": 5,
-      "lecturer": "murat can ganiz",
+      "lecturer": 10,
       "lectureHours": 3,
       "labHours": 0,
       "type": "TE",
@@ -2374,7 +2347,7 @@
       "courseId": "OB2040",
       "courseName": "Industrial Psychology",
       "credits": 3,
-      "lecturer": "30",
+      "lecturer": 30,
       "lectureHours": 2,
       "labHours": 0,
       "type": "NTE",
@@ -2396,7 +2369,7 @@
       "courseId": "OB2041",
       "courseName": "Behavioral Sciences for Engineers",
       "credits": 3,
-      "lecturer": "30",
+      "lecturer": 30,
       "lectureHours": 2,
       "labHours": 0,
       "type": "NTE",
@@ -3082,9 +3055,6 @@
       "name": "Caner Dilmener",
       "department": null
     },
-  
-  
-  
     {
       "id": 24,
       "name": "Mahmut Kertil",
@@ -3238,9 +3208,6 @@
       "name": "Muhammed Nur Avcil",
       "department": "CSE"
     }
-    
-    
-    
-    
-  ]
+  ],
+  "students":[]
 }
