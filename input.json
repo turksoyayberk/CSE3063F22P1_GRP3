@@ -1521,9 +1521,10 @@
       "labHours": 0,
       "type": "M",
       "prerequisites": null,
-      "prerequisiteTo":
+      "prerequisiteTo":[
          "STAT2253",
-         "MATH2256",
+         "MATH2256"
+        ],
       "schedule": [
         [
           2,
