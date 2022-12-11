@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class LabCourse {
+public class LabCourse extends Course {
 
   private int sectionNumber;
 	private int capacity;
