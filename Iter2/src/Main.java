@@ -22,7 +22,7 @@ public class Main {
         Department department = initializeDepartment("input.json");
         Files.createDirectories(Paths.get("./output/"));
         RandomStudentGenerator generator = new RandomStudentGenerator();
-        ArrayList<Student> randomStudents = generator.createStudents(department, 70);
+        ArrayList<Student> randomStudents = generator.createStudents(department, 100);
         for (Student student : randomStudents) {
             JSONCreator jsonCreator = new JSONCreator(student, "./output/" + student.getStudentID() + ".json");
             jsonCreator.saveToFile();
