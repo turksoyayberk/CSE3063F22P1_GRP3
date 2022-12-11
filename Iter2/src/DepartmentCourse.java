@@ -15,6 +15,7 @@ public class DepartmentCourse extends Course {
     private int minCompletedCredits;
 
     public DepartmentCourse(String courseId, String courseName, int credits, int semester, int lectureHours) {
+        this.courseId = courseId;
         this.courseName = courseName;
         this.credits = credits;
         this.semester = semester;
