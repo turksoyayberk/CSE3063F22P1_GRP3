@@ -91,6 +91,8 @@ public class Department {
         courseObject = new MandatoryCourse(courseId, courseName, credits, semester, lectureHours);
         break;
     }
+    
+    return courseObject;
   }
 
   public void addCourse(DepartmentCourse course) {
@@ -109,7 +111,7 @@ public class Department {
           facultyElectiveCourses.put(course.getCourseId(), course);
           break;
       }
-      this.course.put(course.getCourseId(), course);
+      this.courses.put(course.getCourseId(), course);
     } else if (course instanceof MandatoryCourse) {
       mandatoryCourses.put(course.getCourseId(), course);
       this.courses.put(course.getCourseId(), course);
@@ -120,7 +122,7 @@ public class Department {
   }
 
   public void resetCapacities() {
-    for (DepartmentCourse course : this.course.values()) {
+    for (DepartmentCourse course : this.courses.values()) {
       if (course instanceof MandatoryCourse && course.getLabSections().size() > 0) {
         for (LabCourse labSection : course.getLabSections()) {
           int randomSectionCapacity = (int) (Math.random() * labCapacityLimit) + 1;
