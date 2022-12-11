@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class ElectiveCourse extends DepartmentCourse{
     private String type;
-    private final int capacity;
+    private  int capacity;
     
     public ElectiveCourse(String courseId, String courseName, int credits, int semester, int lectureHours, int capacity, String type) {
         super(courseId, courseName, credits, semester, lectureHours);
