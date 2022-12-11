@@ -4,7 +4,6 @@
   "faculty": "Engineering",
   "currentSemester": "fall",
   "maximumCredits": 260,
-  "numberOfLectureDays": 7,
   "numberOfLectureHours": 15,
   "courseTakeLimit": 10,
   "labCapacityLimit": 120,
@@ -1302,7 +1301,7 @@
     },
     {
       "courseId": "ISG121",
-      "courseName": "İş Sağlığı ve Güvenliği I",
+      "courseName": "Is Sagligi ve Guvenligi I",
       "credits": 2,
       "lecturer": 21,
       "lectureHours": 2,
@@ -1401,7 +1400,7 @@
     },
     {
       "courseId": "ISG122",
-      "courseName": "İş Sağlığı ve Güvenliği II",
+      "courseName": "Is Sagligi ve Guvenligi II",
       "credits": 2,
       "lecturer": 21,
       "lectureHours": 2,
