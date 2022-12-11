@@ -114,19 +114,7 @@ public class Main {
                     // Generate a random number for lab capacity
                     int randomSectionCapacity = (int) (Math.random() * department.getLabCapacityLimit()) + 1;
                     if (course.get("labSections") != null) {
-                        for (Object labSection : (JSONArray) course.get("labSections")) {
-                            JSONArray labSectionArray = (JSONArray) labSection;
-                            
-                            LabCourse labCourse = new LabCourse(courseObject);
-                            for (Object labSectionObject : labSectionArray) {
-                                JSONArray labSectionHourArray = (JSONArray) labSectionObject;
-                                int day = Integer.parseInt(labSectionHourArray.get(0).toString());
-                                int hour = Integer.parseInt(labSectionHourArray.get(1).toString());
-                                labCourse.addLectureHour(day, hour);
-                            }
-                            labCourse.setCapacity(randomSectionCapacity);
-                            courseObject.addLabSection(labCourse);
-                        }
+                        
                     }
                 }
             }
