@@ -31,11 +31,11 @@ public class StudentCourse {
      */
     private final String[] StudentRegistrationMessages = {
             "Student is not eligible for course %s because prerequisite %s did not meet.",
-            "Advisor did not approve take of %s because he/she has another course at course time.",
-            "Advisor did not approve take of %s because he/she reached credit take limit (semesters: %s).",
-            "Student is could not take %s because no capacity left.",
-            "Student is could not take this lab section %s because no capacity left.",
-            "Advisor did not approve taking %s because he/she has another course at that time.",
+            "Advisor did not approve registration of %s because he/she has another course at course time.",
+            "Advisor did not approve registration of %s because he/she reached available credit limit (semesters: %s).",
+            "Student could not take %s because no capacity left.",
+            "Student could not take this lab section %s because no capacity left.",
+            "Advisor did not approve taking %s because he/she has another course at that hour.",
             "Student cannot take %s in this semester because the course belongs to another semester.",
             "Student cannot take %s because he/she did not meet minimum completed credits.",
     };
